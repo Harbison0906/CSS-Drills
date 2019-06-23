@@ -11,7 +11,7 @@ h2, p, .readme-wrapper {
   text-align: center;
 }
 a:hover {
-  color: white;
+  color: black;
   font-weight: bold;
 }
 a:visited {
