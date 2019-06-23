@@ -1,0 +1,45 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: lightgrey;
+}
+h2, p, .readme-wrapper {
+  text-align: center;
+}
+ a {
+  text-decoration: none;
+  color: navy;
+  text-align: center;
+}
+a:hover {
+  color: white;
+  font-weight: bold;
+}
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+span {
+  color: royalblue;
+  font-weight: 300;
+}
+.boxes {
+  margin: 2px;
+  padding: 2px;
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 30em;
+  display: block;
+}
+#box1 {
+  background-color: rgba(225, 0, 0, 1);
+}
+#box2 {
+  background-color: rgba(225, 0, 0, 0.75);
+  position: relative;
+}
+#box3 {
+  background-color: rgba(225, 0, 0, 0.50);
+}
+#box4 {
+  background-color: rgba(225, 0, 0, 0.25);
+}
