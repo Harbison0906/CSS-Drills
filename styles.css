@@ -25,7 +25,7 @@ span {
 .boxes {
   margin: 2px;
   padding: 2px;
-  border: 2px solid black;
+  border: 2px solid rgb(187, 255, 0);
   border-radius: 10px;
   width: 30em;
   display: block;
@@ -35,11 +35,33 @@ span {
 }
 #box2 {
   background-color: rgba(225, 0, 0, 0.75);
-  position: relative;
+  
 }
 #box3 {
   background-color: rgba(225, 0, 0, 0.50);
 }
 #box4 {
   background-color: rgba(225, 0, 0, 0.25);
+}
+.header-image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: rgb(22, 66, 255);
+  position: relative;
+}
+#circle1 {
+  left: 90px;
+  top: 50px;
+}
+#circle2 {
+  left: 90px;
+  top: 50px;
+}
+#circle3 {
+  left: 90px;
+  top: 50px;
+}
+#circle4 {
+  top: 50px;
 }
