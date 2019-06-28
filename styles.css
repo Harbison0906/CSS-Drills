@@ -2,6 +2,9 @@ body {
   font-family: 'Lato', sans-serif;
   background-color: lightgrey;
 }
+h1 {
+  color: whitesmoke;
+}
 h2, p, .readme-wrapper {
   text-align: center;
 }
@@ -64,4 +67,37 @@ span {
 }
 #circle4 {
   top: 50px;
+}
+.original {
+  color: crimson;
+}
+.additional {
+  color: black;
+}
+#show1 {
+  color: blue;
+}
+#show2 {
+  color: chocolate;
+}
+#show3 {
+  color: darkblue;
+}
+#show4 {
+  color: darkmagenta;
+}
+#show5 {
+  color: rgb(64, 131, 20)
+}
+ul {
+  color: darkblue;
+}
+.star {
+  color: azure;
+}
+#wars {
+  color: brown;
+}
+.lists {
+  border: 2px solid black;
 }
